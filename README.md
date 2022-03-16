@@ -1,6 +1,7 @@
 # eslint-config-ywchang
 
-[My Eslint config](https://www.npmjs.com/package/eslint-config-ywchang)
+My Eslint config  
+https://www.npmjs.com/package/eslint-config-ywchang
 
 ### Yarn
 ```
